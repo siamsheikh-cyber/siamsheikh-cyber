@@ -64,7 +64,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 </div>
 <br>
-<br>
 ---
 
 ## 🏆 GitHub Trophies
