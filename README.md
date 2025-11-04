@@ -77,11 +77,10 @@ I’m a Front End Web developer passionate about making error-free websites with
 <br>
 
 ## 📫 You can find me @
-<div align="center">
 
+<div>
 📧 **Email:** [siamthecoder@gmail.com](mailto:siamthecoder@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b](https://www.linkedin.com/in/ss-aa-98916737b/)  
 📘 **Facebook:** [facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/)  
 🌍 **Portfolio:** [my-portfolio-nine-flax-71.vercel.app](https://my-portfolio-nine-flax-71.vercel.app/)
-
 </div>
