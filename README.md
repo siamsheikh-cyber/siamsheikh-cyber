@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+<br>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br>
@@ -26,7 +27,8 @@
 <br>
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/siamsheikh?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
-
+<br>
+<br>
 ## 🚀 About Me
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
 
