@@ -24,4 +24,7 @@
 - 👉 and hackathons, or any coding-related challenges.
 <br>
 <br>
+<br>
+<br>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/yasinsorkar47?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
