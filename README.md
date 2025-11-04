@@ -46,12 +46,12 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ### ⚙️ Backend (Learning)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🧰 Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel" />
 </p>
 
 ---
