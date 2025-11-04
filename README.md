@@ -9,5 +9,19 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<br>
+<br>
 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<br> 
+-👑 I am Web Developer <br> 
+- 👀 I’m interested in learning coding, especially in web development. <br> 
+- 🌱 I’m currently learning web development.  <br> 
+- 💞️ I’m looking to collaborate on open-source projects, <br> 
+- 👉 and hackathons, or any coding-related challenges.
+<br>
+<br>
 
