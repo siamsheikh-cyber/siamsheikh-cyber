@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="(https://imgur.com/a/iiM0c8u)" width="400"/>
+  <img src="[(https://imgur.com/a/iiM0c8u)](https://github.com/user-attachments/assets/7e943339-2460-41cd-9e20-59b9f9ed8c1a)" width="400"/>
 </p>
 <br>
 
