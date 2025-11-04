@@ -63,9 +63,9 @@
 
 <div align="center">
 
-📧 **Email:** siamthecoder@gmail.com   
-💼 **LinkedIn:** https://www.linkedin.com/in/ss-aa-98916737b/
-🌍 **Portfolio:** https://my-portfolio-nine-flax-71.vercel.app/
+📧 **Email:** [siamthecoder@gmail.com](mailto:siamthecoder@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b](https://www.linkedin.com/in/ss-aa-98916737b/)  
+🌍 **Portfolio:** [my-portfolio-nine-flax-71.vercel.app](https://my-portfolio-nine-flax-71.vercel.app/)
 
 </div>
 
