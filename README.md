@@ -6,7 +6,9 @@
 
 
 <p align="center">
-  <img src="[(https://imgur.com/a/iiM0c8u)](https://github.com/user-attachments/assets/7e943339-2460-41cd-9e20-59b9f9ed8c1a)" width="400"/>
+ ![simple](https://github.com/user-attachments/assets/452ac6cb-4cd3-4afe-bcf4-512701267b15)
+![simple](https://github.com/user-attachments/assets/c320a59d-d97f-4f5e-a5e2-3dad3a9bfc39)
+<img src="https://github.com/user-attachments/assets/c320a59d-d97f-4f5e-a5e2-3dad3a9bfc39">
 </p>
 <br>
 
