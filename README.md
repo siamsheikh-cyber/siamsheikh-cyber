@@ -51,8 +51,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ---
 
----
-
 ### 📊 GitHub Insights
 
 <div align="center">
