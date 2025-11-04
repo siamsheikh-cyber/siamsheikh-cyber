@@ -6,9 +6,7 @@
 
 
 <p align="center">
- ![simple](https://github.com/user-attachments/assets/452ac6cb-4cd3-4afe-bcf4-512701267b15)
-![simple](https://github.com/user-attachments/assets/c320a59d-d97f-4f5e-a5e2-3dad3a9bfc39)
-<img src="https://github.com/user-attachments/assets/c320a59d-d97f-4f5e-a5e2-3dad3a9bfc39">
+<img src="https://github.com/user-attachments/assets/60f457cd-f334-40b8-b665-4c5423d65267">
 </p>
 <br>
 
