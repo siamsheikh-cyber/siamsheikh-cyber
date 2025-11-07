@@ -19,11 +19,11 @@
 
 <br> 
 <br> 
--👑 I am Web Developer <br> 
-- 👀 I’m interested in learning coding, especially in web development. <br> 
-- 🌱 I’m currently learning web development.  <br> 
-- 💞️ I’m looking to collaborate on open-source projects, <br> 
-- 👉 and hackathons, or any coding-related challenges.
+--- I am Web Developer <br> 
+--- I’m interested in learning coding, especially in web development. <br> 
+--- I’m currently learning web development.  <br> 
+--- I’m looking to collaborate on open-source projects, <br> 
+--- and hackathons, or any coding-related challenges.
 <br>
 <br>
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/siamsheikh?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-## 🚀 About Me
+##  About Me
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
 
 <br>
@@ -39,24 +39,24 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧩 Frontend
+###  Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
 </p>
 
-### ⚙️ Backend (Learning)
+###  Backend (Learning)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧰 Tools & Others
+###  Tools & Others
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
+###  GitHub Insights
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 ---
 <br>
 
-## 📫 You can find me @
+##  You can find me @
 
 <div>
 
