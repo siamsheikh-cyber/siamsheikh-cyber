@@ -12,9 +12,7 @@
 
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/5d459a42-de86-4aef-a6c3-6ac1d99b1a96" >
-</p>
+
 <br>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
